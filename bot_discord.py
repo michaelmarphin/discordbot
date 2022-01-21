@@ -90,7 +90,7 @@ async def intro(ctx):
 	author = ctx.message.author
 	await ctx.send(f"{author.mention}, Hi! My name is IT-Helper and I'm made by a beginner programmer named Michael Marphin to make other programmers' life better and easier.\nI can really save your time because you don't need to write your presets anymore. Now I'm giving it to you!\n\nP.S\nIt's my demo version, so if you want me to go into full flow you'll need to purchase a licence\n\n\nCopyright MS Entertaiment 2022\nBeta Version v1.0\n")
 
-bot.run('OTMwMjAwNTc2MTg3MzIyNDI4.Ydyayw.g7v6IafO02URiQCgRhWS4eRF0AY')
+bot.run('OTMwMjAwNTc2MTg3MzIyNDI4.Ydyayw.j1HtSQ8G2BXaQ3uk7R2jbmL6aj4')
 
 '''
 const { Client, Intents } = require('discord.js');\nconst client = new Client({ intents: [Intents.FLAGS.GUILDS] });\n\nclient.on('ready', () => {\n\tconsole.log(`Logged in as ${client.user.tag}!`);\n});\n\nclient.on('interactionCreate', async interaction => {\n\tif (!interaction.isCommand()) return;\n\n\tif (interaction.commandName === 'ping') {\n\t\tawait interaction.reply('Pong!');\n\t}\n});\n\nclient.login('token');\n
