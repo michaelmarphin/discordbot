@@ -6,7 +6,7 @@ bottle==0.12.19
 bottle-websocket==0.2.9
 cffi==1.15.0
 chardet==4.0.0
-discord.py==2.0.0
+discord.py==1.7.3
 Eel==0.12.4
 future==0.18.2
 gevent==21.12.0
